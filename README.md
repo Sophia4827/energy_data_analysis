@@ -1,6 +1,6 @@
 # Energy Efficiency Analysis
 
-This repo contains the analysis notebook for a data science project investigating energy efficiency in buildings. Taking the perspective of analysts hired by European architects, we explored which building design features most strongly influence heating and cooling loads — with the goal of informing more energy-efficient building designs that comply with Europe's legal energy mandates.
+This repo contains the analysis notebook for a data science project investigating energy efficiency in buildings. Taking the perspective of analysts hired by European architects, we explored which building design features most strongly influence heating and cooling loads, with the goal of informing more energy-efficient building designs that comply with Europe's legal energy mandates.
 
 - [Analysis Notebook](./Final_Project_Jakob_Cheng,_Donny_Dutcher,_Sophia_Huang,_Kaitlyn_Ip.ipynb): Full pipeline including data exploration, UMAP clustering, linear regression, and random forest feature importance analysis
 
